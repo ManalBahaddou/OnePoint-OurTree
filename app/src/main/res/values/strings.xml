@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OurTree</string>
+    <string name="no_data">Aucune donnée disponible</string>
+    <string name="system_error">Erreur système</string>
+</resources>
